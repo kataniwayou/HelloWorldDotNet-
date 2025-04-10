@@ -14,6 +14,9 @@
 
 *   This `progress.md` file is being created now.
 *   Commit the newly created `.clinerules` and `memory-bank` files to Git.
+*   Modified `Program.cs` to add a second message ("my demo is working").
+*   Verified the output by running the demo.
+*   Committed the changes to Git.
 *   No further functional development is planned for this simple project unless requested.
 
 ## 3. Current Status

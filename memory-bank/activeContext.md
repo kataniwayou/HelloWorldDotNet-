@@ -21,6 +21,9 @@
     *   `techContext.md`
     *   `progress.md`
 *   Commit the memory bank files to Git.
+*   Modified `Program.cs` to add a second message ("my demo is working").
+*   Ran the demo to verify the output.
+*   Committed the changes to Git.
 
 ## 4. Active Decisions & Considerations
 
