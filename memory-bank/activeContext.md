@@ -24,6 +24,9 @@
 *   Modified `Program.cs` to add a second message ("my demo is working").
 *   Ran the demo to verify the output.
 *   Committed the changes to Git.
+*   Modified `Program.cs` to add a seconds counter that counts down from 60 to 0 and waits for user input.
+*   Ran the demo to verify the counter and termination.
+*   Committed the changes to Git.
 
 ## 4. Active Decisions & Considerations
 
