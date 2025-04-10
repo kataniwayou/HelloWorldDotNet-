@@ -12,3 +12,4 @@ C:\Users\UserL\Desktop\HelloWorldDotNet\obj\Debug\net9.0\refint\HelloWorldDotNet
 C:\Users\UserL\Desktop\HelloWorldDotNet\obj\Debug\net9.0\HelloWorldDotNet.pdb
 C:\Users\UserL\Desktop\HelloWorldDotNet\obj\Debug\net9.0\HelloWorldDotNet.genruntimeconfig.cache
 C:\Users\UserL\Desktop\HelloWorldDotNet\obj\Debug\net9.0\ref\HelloWorldDotNet.dll
+C:\Users\UserL\Desktop\HelloWorldDotNet\obj\Debug\net9.0\HelloWorldDotNet.sourcelink.json
