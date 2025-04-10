@@ -27,6 +27,9 @@
 *   Modified `Program.cs` to add a seconds counter that counts down from 60 to 0 and waits for user input.
 *   Ran the demo to verify the counter and termination.
 *   Committed the changes to Git.
+*   Modified `Program.cs` to display the seconds counter in a single line using carriage return.
+*   Ran the demo to verify the single-line counter display.
+*   Committed the changes to Git.
 
 ## 4. Active Decisions & Considerations
 
